@@ -9,7 +9,7 @@ if version > 580
 endif
 
 set t_Co=256
-let g:colors_name = "smyck"
+let g:colors_name = "smyck256"
 
 hi IncSearch guifg=#8F8F8F guibg=#F6DC69 guisp=#F6DC69 gui=NONE ctermfg=245 ctermbg=221 cterm=NONE
 "hi WildMenu -- no settings --
