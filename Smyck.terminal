@@ -361,10 +361,14 @@
 		<string>[H</string>
 		<key>F72B</key>
 		<string>[F</string>
+		<key>^F700</key>
+		<string>[1;5A</string>
+		<key>^F701</key>
+		<string>[1;5B</string>
 		<key>^F702</key>
-		<string>[5D</string>
+		<string>[1;5D</string>
 		<key>^F703</key>
-		<string>[5C</string>
+		<string>[1;5C</string>
 		<key>~F702</key>
 		<string>b</string>
 		<key>~F703</key>
